@@ -13,7 +13,7 @@ You will then override one of the variables/optoins.
 Truly only tested w/ vim-plug:
 
 ```
-Plug 'eric-hansen/vim-jira'
+Plug 'eric-hansen/jira.vim'
 ```
 
 ## Dependencies
@@ -165,3 +165,4 @@ This plugin is by far a work in progress.  There are many features missing from 
 * Make the issue template dynamic (based on project key)
 * When viewing a single ticket, render comments as well
 * Make async with the cURL calling so as to not hang Vim
+* Screenshots and proofs it is awesome!

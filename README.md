@@ -4,7 +4,7 @@ This is a JIRA plugin for Vim to browse issues, allowing for custom JQL.  While 
 
 ## Atlassian API
 
-This uses the new Atlassian Cloud API, so you need to generate yourself an [https://confluence.atlassian.com/cloud/api-tokens-938839638.html](API key).
+This uses the new Atlassian Cloud API, so you need to generate yourself an [API key](https://confluence.atlassian.com/cloud/api-tokens-938839638.html).
 
 You will then override one of the variables/optoins.
 
